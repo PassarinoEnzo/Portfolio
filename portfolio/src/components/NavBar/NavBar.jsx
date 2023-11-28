@@ -1,3 +1,8 @@
 export default function NavBar() {
-  return <div>NavBar</div>;
+  return (
+    <div>
+      <button>Sobre Mí</button>
+      <button>Proyectos</button>
+    </div>
+  );
 }
